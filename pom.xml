@@ -3,7 +3,7 @@
 	<groupId>TCGManager</groupId>
 	<artifactId>TCGManager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	
+
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-thymeleaf -->
 		<dependency>
